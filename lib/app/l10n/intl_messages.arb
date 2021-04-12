@@ -1,0 +1,8 @@
+{
+  "@@last_modified": "2020-03-16T11:08:36.378014",
+  "phoneValidationError": "Phone number not valid",
+  "@phoneValidationError": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

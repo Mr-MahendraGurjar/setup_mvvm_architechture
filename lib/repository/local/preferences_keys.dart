@@ -1,0 +1,31 @@
+class PrefsKeys {
+  static const String kIsRemember = 'PREF_IS_REMEMBER';
+  static const String kIsBiometricsEnabled = 'PREF_IS_BIOMETRICS_ENABLED';
+  static const String kIsAllowUseBio = 'PREF_IS_ALLOW_BIO';
+  static const String kPrivacyPolicyShowed = 'PREF_PRIVACY_POLICY_SHOWED';
+  static const String kInactivityTimeOut = 'PREF_INACTIVITY_TIME_OUT';
+  static const String kDaysOffline = 'PREF_DAYS_OFFLINE';
+  static const String kAuthToken = 'AUTH_TOKEN';
+  static const String kUserName = 'USER_NAME';
+  static const String kCompany = 'COMPANY';
+  static const String kLoggedUserName = 'LOGGED_USER_NAME';
+  static const String kLoggedCompany = 'LOGGED_COMPANY';
+  static const String kLastAvailableDate = 'PREF_LAST_AVAILABLE_DATE';
+  static const String kLastUpdateDate = 'PREF_LAST_UPDATE_DATE';
+  static const String kUserId = 'PREF_USER_ID';
+  static const String kEVVTrackingID = 'PREF_EVVTrackingID';
+  static const String kUserLockedState = 'PREF_LOCKED_STATE';
+  static const String kClientData = 'PREF_CLIENT_DATA';
+  static const String kClientIdBase = 'PREF_CLIENT_ID_BASE';
+  static const String kGroupIdBase = 'PREF_GROUP_ID_BASE';
+  static const String kApiEndPoint = 'API_END_POINT';
+  static const String kMenuList = 'MenuList';
+  static const String kLifePlanSubFormList = 'LifePlanSubFormList';
+  static const String kTimeStamp = 'TimeStamp';
+  static const String kReferralFormId = 'ReferralFormId';
+  static const String kReferralId = 'ReferralId';
+  static const String kIntakeFormId = 'IntakeFormId';
+  static const String kIntakeId = 'IntakeId';
+  static const String kClientProgramId = 'ClientProgramId';
+  static const int kClientBaseId = 5000000;
+}
